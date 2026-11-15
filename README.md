@@ -1,1 +1,1 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=707628160251254361" height="358" width="450" frameborder="0" scrolling="no" ></iframe>
+<img width="1200" height="675" alt="Group 11" src="https://github.com/user-attachments/assets/5d2ef3b7-8102-4357-b84f-04498b39dfe5" />
